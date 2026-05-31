@@ -285,5 +285,3 @@ Give a ⭐ if you like this project!
 ---
 
 **Made with ❤️ and PHP**
-
-**Empowering Women, One Click at a Time! 🌸**
