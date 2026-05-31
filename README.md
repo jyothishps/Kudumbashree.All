@@ -1,6 +1,6 @@
 # Kudumbashree.All - Unit Automation System
 
-A web-based management system to digitalize the operations of a Kudumbashree Neighbourhood Group (NHG). Say goodbye to heavy paperwork!
+A web-based management system to digitalize the operations of a Kudumbashree Unit. Say goodbye to heavy paperwork!
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
